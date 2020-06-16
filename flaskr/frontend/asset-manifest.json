@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.554c8948.chunk.css",
+    "main.js": "/static/js/main.6d947fd7.chunk.js",
+    "main.js.map": "/static/js/main.6d947fd7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fc75219d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fc75219d.js.map",
+    "static/js/2.fadf23e6.chunk.js": "/static/js/2.fadf23e6.chunk.js",
+    "static/js/2.fadf23e6.chunk.js.map": "/static/js/2.fadf23e6.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.77afabb47617677cefadf04021936344.js": "/precache-manifest.77afabb47617677cefadf04021936344.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.554c8948.chunk.css.map": "/static/css/main.554c8948.chunk.css.map",
+    "static/js/2.fadf23e6.chunk.js.LICENSE.txt": "/static/js/2.fadf23e6.chunk.js.LICENSE.txt",
+    "static/media/apex.jpg": "/static/media/apex.312b5a5f.jpg",
+    "static/media/chess.jpg": "/static/media/chess.72ad17d6.jpg",
+    "static/media/csgo.jpg": "/static/media/csgo.8d5da490.jpg",
+    "static/media/fifa.jpg": "/static/media/fifa.f7895752.jpg",
+    "static/media/fn.jpg": "/static/media/fn.9a355bfd.jpg",
+    "static/media/mc.jpg": "/static/media/mc.2140c38b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc75219d.js",
+    "static/js/2.fadf23e6.chunk.js",
+    "static/css/main.554c8948.chunk.css",
+    "static/js/main.6d947fd7.chunk.js"
+  ]
+}
